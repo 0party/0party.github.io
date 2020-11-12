@@ -1,2 +1,2 @@
-# 0party.github.io
+# 0party
 0party website
